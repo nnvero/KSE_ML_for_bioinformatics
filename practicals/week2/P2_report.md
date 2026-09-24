@@ -63,8 +63,9 @@ Total serum cholesterol (s1), low-density lipoproteins (s2), high-density lipopr
 | **Simple Regression** | 52.259976 | 4061.825928 | 63.732456 | 0.233350 |
 | **Multiple Regression** | 42.794095 | 2900.193628 | 53.853446 | 0.452603 |
 
-Overall, multiple regression performed better across all metrics. 
+Overall, multiple regression performed better across all metrics. Predicted by multiple regression values are generally closer to actual ones. In addition, multiple regression has explained almost twice more variance than simple regresion, but the achieved score is still not as strong.
 - MAE shows average difference between predicted and actual value.
 - MSE - squared difference between predicted and actual values, penalizes large distances more
 - RMSE - square root of MSE, nrings it to original units
 - R^2 - proportion of total variance explained by model's predictors.
+
