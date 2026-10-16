@@ -41,7 +41,7 @@ KNN and SVM (with RBF kernel) were trained on an 80/20 stratified split, scaling
 
 K-means and Agglomerative Hierarchical Clustering were performed using K=3 to match the number of actual labels.
 
-Silhouette scores were close both methods (K-means 0.28; Hierarchical Clustering 0.25) and indicated weak separation into 3 clusters. Low ARI and NMI (<0.03 and <0.06 reprectively) confirmed that clusters do not match actual class labels
+Silhouette scores were close both methods (K-means 0.28; Hierarchical Clustering 0.25) - quality and separation of clusters is poor, value close to 0 indicates that data point lies very close. Low ARI and NMI (<0.03 - random label assignments; and <0.06 reprectively) confirmed that clusters do not match actual class labels
 
 Both K-Means and Agglomerative Clustering partition the large central UMAP island into halves (Clusters 0 and 1) based on spatial distance and assign distinct outlying island to Cluster 2. Overall, unsupervised algorithms cluster primarily by technical batch.
 
