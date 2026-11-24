@@ -1,0 +1,3 @@
+run,checkpoint,precision,recall,mAP50,mAP50-95,n_val_images
+pt1_yolov8n,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_cpu_work/runs/pt1_yolov8n/weights/best.pt,0.0024096385542168677,0.00539568345323741,2.0080321285140562e-05,5.223466212115342e-06,4
+pt1_plus_c2_yolov8n,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_cpu_work/runs/pt1_plus_c2_yolov8n/weights/best.pt,0.28380105284339124,0.10611510791366907,0.08567473574409343,0.029252685846283405,4

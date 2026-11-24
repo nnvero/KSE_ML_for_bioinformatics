@@ -1,0 +1,20 @@
+data/images/train/19 open.jpg
+data/images/train/21 count.jpg
+data/images/train/40 open.jpg
+data/images/train/702.jpg
+data/images/train/776.jpg
+data/images/train/Plate 1 with cfu count, dark.jpg
+data/images/train/Plate 2 with cfu count, dark.jpg
+data/images/train/Staph 3 RAW.png
+data/images/train/Staph 6 RAW.png
+data/images/train/Staph 7 RAW.png
+data/images/train/WIN_20240318_11_44_54_Pro.jpg
+data/images/train/WIN_20240422_12_06_15_Pro.jpg
+data/images/train/frame_120.png
+data/images/train/frame_180.png
+data/images/train/frame_278.png
+data/images/train/frame_334.png
+data/images/train/frame_393.png
+data/images/train/frame_407.png
+data/images/train/frame_74.png
+data/images/train/yeast .jpg
