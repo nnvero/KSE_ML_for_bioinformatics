@@ -1,0 +1,60 @@
+source,file,split,objects,density
+pt1_obb,19 open.jpg,train,38,medium
+pt1_obb,21 count.jpg,train,38,medium
+pt1_obb,40 open.jpg,val,33,medium
+pt1_obb,702.jpg,train,274,dense
+pt1_obb,776.jpg,train,345,dense
+pt1_obb,"Plate 1 with cfu count, dark.jpg",train,38,medium
+pt1_obb,"Plate 2 with cfu count, dark.jpg",train,37,medium
+pt1_obb,Staph 3 RAW.png,val,273,dense
+pt1_obb,Staph 6 RAW.png,train,27,sparse
+pt1_obb,Staph 7 RAW.png,train,20,sparse
+pt1_obb,WIN_20240318_11_44_54_Pro.jpg,val,37,medium
+pt1_obb,WIN_20240422_12_06_15_Pro.jpg,val,16,sparse
+pt1_obb,frame_120.png,train,7,sparse
+pt1_obb,frame_180.png,train,44,medium
+pt1_obb,frame_278.png,train,14,sparse
+pt1_obb,frame_334.png,train,40,medium
+pt1_obb,frame_393.png,train,36,medium
+pt1_obb,frame_407.png,train,33,medium
+pt1_obb,frame_74.png,train,75,medium
+pt1_obb,yeast .jpg,train,468,dense
+colonies_2,16 open.jpg,train,57,medium
+colonies_2,18 count.jpg,train,81,medium
+colonies_2,21 open.jpg,train,39,medium
+colonies_2,707.jpg,train,327,dense
+colonies_2,E c 2 RAW.png,train,93,medium
+colonies_2,Ps fluorescenes c.jpg,val,15,sparse
+colonies_2,R mucilaginosa.jpg,val,385,dense
+colonies_2,Staph 1 total count RAW.png,train,10,sparse
+colonies_2,WIN_20240419_10_42_35_Pro.jpg,train,190,dense
+colonies_2,WIN_20240422_11_52_26_Pro.jpg,train,16,sparse
+colonies_2,WIN_20240422_11_58_12_Pro.jpg,train,7,sparse
+colonies_2,WIN_20240422_11_59_08_Pro.jpg,train,52,medium
+colonies_2,WIN_20240422_12_10_56_Pro.jpg,train,13,sparse
+colonies_2,WIN_20240422_12_19_01_Pro.jpg,train,7,sparse
+colonies_2,e coli 2.jpg,train,607,dense
+colonies_2,frame_106.png,val,24,sparse
+colonies_2,frame_361.png,val,96,medium
+colonies_2,frame_80.png,train,43,medium
+colonies_2,frame_97.png,train,14,sparse
+colonies_2,mixed bacteria 1a.jpg,train,127,dense
+colonies_3,part_3/18 open.jpg,train,82,medium
+colonies_3,part_3/20 open.jpg,train,44,medium
+colonies_3,part_3/37 open.jpg,train,59,medium
+colonies_3,part_3/39 open.jpg,val,70,medium
+colonies_3,part_3/41 open.jpg,train,19,sparse
+colonies_3,part_3/42 open.jpg,train,33,medium
+colonies_3,part_3/E c 1 RAW.png,train,40,medium
+colonies_3,part_3/Ps a total count RAW.png,val,38,medium
+colonies_3,part_3/WIN_20240419_10_41_58_Pro.jpg,train,24,sparse
+colonies_3,part_3/WIN_20240422_12_20_09_Pro.jpg,train,15,sparse
+colonies_3,part_3/frame_112.png,train,4,sparse
+colonies_3,part_3/frame_276.png,train,71,medium
+colonies_3,part_3/frame_301.png,train,19,sparse
+colonies_3,part_3/frame_320.png,train,116,dense
+colonies_3,part_3/frame_365.png,train,33,medium
+colonies_3,part_3/frame_425.png,train,75,medium
+colonies_3,part_3/frame_444.png,train,59,medium
+colonies_3,part_3/frame_92.png,train,2,sparse
+colonies_3,part_3/frame_94.png,val,5,sparse

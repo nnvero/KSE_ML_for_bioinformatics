@@ -1,0 +1,4 @@
+model,stage,run,checkpoint,precision,recall,mAP50,mAP50-95
+YOLO11n,architecture,full_yolo11n_fair,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolo11n_fair/weights/best.pt,0.8419479320757519,0.6229187839896777,0.6723676715823749,0.3742586896042936
+YOLO26n,architecture,full_yolo26n_fair,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolo26n_fair/weights/best.pt,0.7957147208470262,0.6219758064516129,0.6581402448407274,0.35586455693475355
+YOLOv8n,architecture,full_yolov8n_fair,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolov8n_fair/weights/best.pt,0.786298349247571,0.6290322580645161,0.6498349808078981,0.35882256542895574

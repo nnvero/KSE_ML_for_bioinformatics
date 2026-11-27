@@ -1,0 +1,5 @@
+path: /home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/ultralytics/full_dataset
+train: images/train
+val: images/val
+names:
+  0: colony

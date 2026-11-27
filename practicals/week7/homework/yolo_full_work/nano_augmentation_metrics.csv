@@ -1,0 +1,4 @@
+model,stage,recipe,run,checkpoint,precision,recall,mAP50,mAP50-95
+YOLO11n,augmentation,photometric_flips,full_yolo11n_fair,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolo11n_fair/weights/best.pt,0.8419479320757519,0.6229187839896777,0.6723676715823749,0.3742586896042936
+YOLO11n,augmentation,circular_geometry,full_yolo11n_circular_geometry,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolo11n_circular_geometry/weights/best.pt,0.7429551824530309,0.5342741935483871,0.5469966244553492,0.15849167392217722
+YOLO11n,augmentation,circular_plus_mosaic,full_yolo11n_circular_plus_mosaic,/home/nikolaieva/ML/KSE_ML_for_bioinformatics/practicals/week7/homework/yolo_full_work/runs/full_yolo11n_circular_plus_mosaic/weights/best.pt,0.7388176313507412,0.5617565549729637,0.5338170149076299,0.1829185144791295
